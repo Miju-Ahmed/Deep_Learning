@@ -1,0 +1,6 @@
+path: /home/cse/Desktop/Miju_work/LAB/DNN/datasets/WIDER_YOLO_SMALL
+train: train/images
+val: val/images
+
+nc: 1
+names: ['face']

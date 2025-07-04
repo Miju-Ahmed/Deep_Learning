@@ -1,0 +1,6 @@
+path: /home/saku/Desktop/Lab/Assignment_7/datasets/WIDER_YOLO
+train: train/images
+val: val/images
+
+nc: 1
+names: ['face']

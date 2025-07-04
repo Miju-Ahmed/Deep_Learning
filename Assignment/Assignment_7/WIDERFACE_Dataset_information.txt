@@ -1,0 +1,1 @@
+For this method, prepared dataset WIDERFACE are presented in this Partitions Dataset directory. No need to modify this dataset to run the assignment_7. For run the assignmnet_7, we have to keep this dataset into this directory and only change the path of the dataset and the .yaml files
